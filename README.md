@@ -7,7 +7,7 @@ Overall, the project is an in-depth TypeScript learning resource, ideal for deve
 ## Install
 
 ```sh
-npm create vite@latest typescript -- --template vanilla-ts
+npm create vite@latest typescript_learn -- --template vanilla-ts
 ```
 
 ## Setup
